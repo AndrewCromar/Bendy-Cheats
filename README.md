@@ -4,6 +4,6 @@
 
 ### How to install.
 
-- [Download the installer.](https://github.com/AndrewCromar/Bendy-Cheats/raw/refs/heads/main/installer/Installer.zip)
-- Unzip and run BendyCheatsInstaller.exe.
-- Done.
+1. [Download the installer.](https://github.com/AndrewCromar/Bendy-Cheats/raw/refs/heads/main/installer/Installer.zip)
+2. Unzip and run BendyCheatsInstaller.exe.
+3. Done.
