@@ -1,0 +1,17 @@
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\latest\net8.0-windows\BendyCheatsInstaller.exe
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\latest\net8.0-windows\BendyCheatsInstaller.deps.json
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\latest\net8.0-windows\BendyCheatsInstaller.runtimeconfig.json
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\latest\net8.0-windows\BendyCheatsInstaller.dll
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\latest\net8.0-windows\BendyCheatsInstaller.pdb
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.main.resources
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.csproj.GenerateResource.cache
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.AssemblyInfoInputs.cache
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.AssemblyInfo.cs
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.sourcelink.json
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.dll
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\refint\BendyCheatsInstaller.dll
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.pdb
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\BendyCheatsInstaller.genruntimeconfig.cache
+C:\Users\scrom\Dropbox\Kids\Andrew\programming\Bendy-Cheats\installer\BendyCheatsInstaller\BendyCheatsInstaller\obj\latest\net8.0-windows\ref\BendyCheatsInstaller.dll

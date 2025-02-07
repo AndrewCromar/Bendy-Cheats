@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BendyCheatsInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ba5ee8d857f1dff61a0dfe1f1ea6694dff252d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23e295839db924753a858b00897aa44c67b87957")]
 [assembly: System.Reflection.AssemblyProductAttribute("BendyCheatsInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BendyCheatsInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

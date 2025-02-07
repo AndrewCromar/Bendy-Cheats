@@ -49,6 +49,7 @@ namespace BendyCheatsInstaller
             if (!File.Exists(libraryFile))
             {
                 MessageBox.Show("Steam library file not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Application.Exit();
                 return libraries;
             }
 

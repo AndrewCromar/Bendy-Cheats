@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj": {}
+    "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj": {
+    "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+        "projectUniqueName": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
         "projectName": "BendyCheatsInstaller",
-        "projectPath": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
-        "packagesPath": "C:\\Users\\andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\obj\\",
+        "projectPath": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+        "packagesPath": "C:\\Users\\scrom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\scrom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

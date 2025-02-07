@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\",
+  "WorkspaceRootPath": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|c:\\users\\andrew\\dropbox\\kids\\andrew\\programming\\bendy-cheats\\installer\\bendycheatsinstaller\\bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|solutionrelative:bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|c:\\users\\scrom\\dropbox\\kids\\andrew\\programming\\bendy-cheats\\installer\\bendycheatsinstaller\\bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|solutionrelative:bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|c:\\users\\andrew\\dropbox\\kids\\andrew\\programming\\bendy-cheats\\installer\\bendycheatsinstaller\\bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|solutionrelative:bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|c:\\users\\scrom\\dropbox\\kids\\andrew\\programming\\bendy-cheats\\installer\\bendycheatsinstaller\\bendycheatsinstaller\\bendycheatsinstaller.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|solutionrelative:bendycheatsinstaller\\bendycheatsinstaller.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|c:\\users\\scrom\\dropbox\\kids\\andrew\\programming\\bendy-cheats\\installer\\bendycheatsinstaller\\bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{274D43D2-4FFA-4672-8B3F-58F4024B0BE5}|BendyCheatsInstaller\\BendyCheatsInstaller.csproj|solutionrelative:bendycheatsinstaller\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,23 +27,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BendyCheatsInstaller",
+              "DocumentMoniker": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+              "RelativeDocumentMoniker": "BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+              "ToolTip": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+              "RelativeToolTip": "BendyCheatsInstaller\\BendyCheatsInstaller.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T17:35:49.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.cs",
-              "DocumentMoniker": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
+              "DocumentMoniker": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
               "RelativeDocumentMoniker": "BendyCheatsInstaller\\main.cs",
-              "ToolTip": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
+              "ToolTip": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
               "RelativeToolTip": "BendyCheatsInstaller\\main.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwFcAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T06:45:21.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
+              "DocumentMoniker": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs",
               "RelativeDocumentMoniker": "BendyCheatsInstaller\\main.cs",
-              "ToolTip": "C:\\Users\\andrew\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs [Design]",
+              "ToolTip": "C:\\Users\\scrom\\Dropbox\\Kids\\Andrew\\programming\\Bendy-Cheats\\installer\\BendyCheatsInstaller\\BendyCheatsInstaller\\main.cs [Design]",
               "RelativeToolTip": "BendyCheatsInstaller\\main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T06:42:50.938Z",
