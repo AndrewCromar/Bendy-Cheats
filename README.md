@@ -1,6 +1,6 @@
 # Bendy Cheats
  
- Cheats for Bendy and the Ink Machine.
+Cheats for Bendy and the Ink Machine.
 
 ### How to install.
 
